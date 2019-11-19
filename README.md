@@ -13,7 +13,7 @@ Beovolytics leverages exceptional IT and blockchain engineering talent to delive
 ### SERVICES
 
 
-#### Blockchain Development
+#### Blockchain Development:
 
 We Have In-Depth Knowledge And Expertise In Hyperledger Fabric. Development of public and private blockchains to the creation of smart contracts and distributed ledgers. Our offshore full-stack Blockchain programmers provide quick deployment of Blockchain development projects and reliable support for ongoing projects...
 

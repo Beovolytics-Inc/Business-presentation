@@ -4,13 +4,15 @@
 
 #
 
+#### ABOUT US
+
 #### We engineer world-class software & Blockchain technology solutions
 
 Beovolytics leverages exceptional IT and blockchain engineering talent to deliver high-quality solutions for small and medium businesses Beovolytics integrates software assembly lines into large organizations by deploying solutions offered by the Cloud ecosystem. We build software solutions using emerging technology for startups and enterprises. Our team of Certified experts has designed, developed and produced over various digital platforms on Cloud, IoT, Mobile, and Blockchain.
 
 #
 
-### SERVICES
+#### SERVICES
 
 
 #### Blockchain Development:
@@ -45,7 +47,7 @@ Data Science consulting and business analytics solutions leverage the power of p
 
 #### Web Desing and Development:
 
-Client-focused, customer-centric, creating website solutions that deliver tangible business results, Appnovation's web developers helps brands the ever-changing digital landscape.
+Client-focused, customer-centric, creating website solutions that deliver tangible business results, Appnovation's web developers helps brands the ever-changing digital landscape. Our website developers provide expert web application development and web design services to our clients. Appnovation offers a variety of website design and development services, from creating mobile web development solutions and responsive website designs, to building custom UI/UX, e-commerce and intranet experiences using the latest and modern web technologies. 
 
 
 #### Business & Branding Development:
